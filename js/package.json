@@ -1,0 +1,12 @@
+{
+  "name": "student-app",
+  "version": "1.0.0",
+  "description": "Local server for the student client that persists comments to test.json",
+  "main": "pseudo_server.js",
+  "scripts": {
+    "start": "node pseudo_server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
